@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://41742-mx.github.io/tongwei-site/sitemap.xml

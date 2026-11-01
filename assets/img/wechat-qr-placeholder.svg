@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="qr-title qr-desc">
+  <title id="qr-title">微信二维码占位</title>
+  <desc id="qr-desc">二维码待补充，请替换为真实微信二维码。</desc>
+  <rect width="800" height="800" fill="#E9E0D2"/>
+  <rect x="240" y="180" width="320" height="320" rx="12" fill="none" stroke="#B9824F" stroke-width="6" stroke-dasharray="16 12"/>
+  <g fill="none" stroke="#7A4E2B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M330 300h140a24 24 0 0 1 24 24v54a24 24 0 0 1-24 24h-72l-38 30v-30h-30a24 24 0 0 1-24-24v-54a24 24 0 0 1 24-24z"/>
+    <path d="M360 338h80M360 366h52"/>
+  </g>
+  <text x="400" y="590" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="40" font-weight="700" fill="#7A4E2B">二维码待补充</text>
+  <text x="400" y="640" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="24" fill="#5E645E">请替换为真实微信二维码</text>
+</svg>

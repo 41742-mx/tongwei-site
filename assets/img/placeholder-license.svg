@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1400" role="img" aria-labelledby="license-title license-desc">
+  <title id="license-title">营业执照展示位</title>
+  <desc id="license-desc">营业执照照片位，待补充，敏感信息需脱敏。</desc>
+  <rect width="1000" height="1400" fill="#E9E0D2"/>
+  <g fill="none" stroke="#7A4E2B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M420 560h160v220H420z"/>
+    <path d="M460 620h80M460 660h80M460 700h56"/>
+    <path d="M420 560l38-40h84l38 40"/>
+  </g>
+  <text x="500" y="870" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="40" font-weight="700" fill="#7A4E2B">营业执照展示位</text>
+  <text x="500" y="920" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="24" fill="#5E645E">待补充，敏感信息脱敏</text>
+</svg>

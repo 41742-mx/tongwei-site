@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="case-title case-desc">
+  <title id="case-title">案例图片占位</title>
+  <desc id="case-desc">真实纸箱案例照片位，待补充实物与定制细节。</desc>
+  <rect width="1200" height="900" fill="#E9E0D2"/>
+  <g fill="none" stroke="#7A4E2B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="530" y="330" width="140" height="104" rx="10"/>
+    <circle cx="600" cy="382" r="28"/>
+    <path d="M558 330l14-22h56l14 22"/>
+  </g>
+  <text x="600" y="570" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="40" font-weight="700" fill="#7A4E2B">案例图片位</text>
+  <text x="600" y="620" text-anchor="middle" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="24" fill="#5E645E">待补充实物与定制细节</text>
+</svg>
